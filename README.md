@@ -102,14 +102,4 @@ Teacher's Assistant: [Jacob Peroutek](https://www.linkedin.com/in/jperoutek/)
 
 Advisor: [Jordan Green](https://www.linkedin.com/in/jordan-green-138ba0a9/) - Quality Assurance and Accreditation Manager at the Tulsa Police Forensic Laboratory
 
-Contributors:
-
-[Cory Chapman Houston](https://www.linkedin.com/in/thatcorygirl/)
-
-[Amanda Hinkle](https://www.linkedin.com/in/amanda-hinkle-9105941b6/)
-
-[Katie Starnes](https://www.linkedin.com/in/katie-starnes-7aa037204/)
-
-[Kourtnee Turner](https://www.linkedin.com/in/kourtneet/)
-
-[Cass Johnnie Allen](https://www.linkedin.com/in/cass-allen-dedicated-quicklearner-peopleperson/)
+Contributors: [Cory Chapman Houston](https://www.linkedin.com/in/thatcorygirl/) [Amanda Hinkle](https://www.linkedin.com/in/amanda-hinkle-9105941b6/) [Katie Starnes](https://www.linkedin.com/in/katie-starnes-7aa037204/) [Kourtnee Turner](https://www.linkedin.com/in/kourtneet/) [Cass Johnnie Allen](https://www.linkedin.com/in/cass-allen-dedicated-quicklearner-peopleperson/)
