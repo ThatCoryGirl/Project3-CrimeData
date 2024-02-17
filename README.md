@@ -1,6 +1,7 @@
 # Project3-CrimeData
 
-Data Visualization Track
+# **Data Visualization Track**
+
 For this track, your group will tell a story using data visualizations. Here are the specific requirements:
 
 Your project must include visualizations. The visualizations can be created with:
@@ -47,7 +48,8 @@ References for the data source(s)
 
 References for any code used that is not your own
 
-Data Engineering Track
+# **Data Engineering Track**
+
 For this track, your group will follow data engineering processes. Here are the specific requirements:
 
 Data must be stored in a SQL or NoSQL database (PostgreSQL, MongoDB, SQLite, etc) and the database must include at least two tables (SQL) or collections (NoSQL).
@@ -85,3 +87,29 @@ OPTIONAL: add user-driven interaction, either before or after the ETL process. e
 BEFORE: provide a menu of options for the user to narrow the range of data being extracted from a data source (e.g. API or CSV file, where fields are known in advance).
 
 AFTER: Once the data is stored in the database, add user capability to extract filtered data from the database prior to loading it in a Pandas DataFrame or a JSON output from a Flask API.
+
+# **Questions Asked**
+
+# **Analysis and Conclusions**
+
+# **Bumps in the Road**
+
+# **Citations**
+
+Instructor: [Othmane Benyoucef](https://www.linkedin.com/in/othmane-benyoucef-219a8637/)
+
+Teacher's Assistant: [Jacob Peroutek](https://www.linkedin.com/in/jperoutek/)
+
+Advisor: [Jordan Green](https://www.linkedin.com/in/jordan-green-138ba0a9/) - Quality Assurance and Accreditation Manager at the Tulsa Police Forensic Laboratory
+
+Contributors:
+
+[Cory Chapman Houston](https://www.linkedin.com/in/thatcorygirl/)
+
+[Amanda Hinkle](https://www.linkedin.com/in/amanda-hinkle-9105941b6/)
+
+[Katie Starnes](https://www.linkedin.com/in/katie-starnes-7aa037204/)
+
+[Kourtnee Turner](https://www.linkedin.com/in/kourtneet/)
+
+[Cass Johnnie Allen](https://www.linkedin.com/in/cass-allen-dedicated-quicklearner-peopleperson/)
