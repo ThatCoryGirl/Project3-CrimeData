@@ -96,6 +96,7 @@ What race has the most deaths?
 Violent crimes reported associated with usage?
 Were there more men or women deaths reported?
 What is the age group with the highest reports deaths?
+In areas with high deaths, see if overdoses from other drugs dropped/increased/stayed the same.
 Age, race and gender by zipcode comparison.
 
 
