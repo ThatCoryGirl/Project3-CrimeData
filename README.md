@@ -89,6 +89,15 @@ BEFORE: provide a menu of options for the user to narrow the range of data being
 AFTER: Once the data is stored in the database, add user capability to extract filtered data from the database prior to loading it in a Pandas DataFrame or a JSON output from a Flask API.
 
 # **Questions Asked**
+What is the youngest/oldest death reported?
+What states/zipcodes have the highest death rate?
+What are the average household incomes in the zipcodes with the highest death rate?
+What race has the most deaths?
+Violent crimes reported associated with usage?
+Were there more men or women deaths reported?
+What is the age group with the highest reports deaths?
+Age, race and gender by zipcode comparison.
+
 
 # **Analysis and Conclusions**
 
