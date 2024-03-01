@@ -73,7 +73,7 @@ Please make sure that you understand that the information provided here is being
 
 There is no agreement or understanding between you and Wikipedia regarding your use or modification of this information beyond the Creative Commons Attribution-Sharealike 4.0 Unported License (CC-BY-SA) and the GNU Free Documentation License (GFDL); neither is anyone at Wikipedia responsible should someone change, edit, modify, or remove any information that you may post on Wikipedia or any of its associated projects.
 
-# **CDC
+CDC
 Information Disclaimer
 The information provided using this website is only intended to be general summary information to the public. It is not intended to take the place of either the written law or regulations.
 
