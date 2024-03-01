@@ -64,6 +64,20 @@ Age, race and gender by zipcode comparison.
 
 # **Bumps in the Road**
 
+# **Disclaimers
+
+Wikimedia General Disclaimer
+Please note that the information found here may be in violation of the laws of the country or jurisdiction from where you are viewing this information. Wikimedia does not encourage the violation of any laws, but this information is stored on servers in the United States of America, and is maintained in reference to the protections afforded to content providers and readers in that jurisdiction. The laws in your country may not recognize a similarly broad protection of free speech; Wikimedia cannot be responsible for potential violations of such laws, should you link to this domain or reuse any of the information contained herein.
+No contract; limited license
+Please make sure that you understand that the information provided here is being provided freely, and that no kind of agreement or contract is created between you and the owners or users of this site, the owners of the servers upon which it is housed, the individual Wikipedia contributors, any project administrators, sysops, or anyone else who is in any way connected with this project or sister projects subject to your claims against them directly. You are being granted a limited license to copy anything from this site; it does not create or imply any contractual or extracontractual liability on the part of Wikipedia or any of its agents, members, organizers, or other users.
+
+There is no agreement or understanding between you and Wikipedia regarding your use or modification of this information beyond the Creative Commons Attribution-Sharealike 4.0 Unported License (CC-BY-SA) and the GNU Free Documentation License (GFDL); neither is anyone at Wikipedia responsible should someone change, edit, modify, or remove any information that you may post on Wikipedia or any of its associated projects.
+
+# **CDC
+Information Disclaimer
+The information provided using this website is only intended to be general summary information to the public. It is not intended to take the place of either the written law or regulations.
+
+
 # **Citations**
 
 Instructor: [Othmane Benyoucef](https://www.linkedin.com/in/othmane-benyoucef-219a8637/)
