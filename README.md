@@ -60,8 +60,8 @@ For this track, your group will tell a story using data visualizations. Here are
 
 - Fentanyl deaths due to overdose skyrocketed in 2013-2014
 - Methamphetamine overdoses dropped/slowed significantly once Fentanyl became popular
-- Most overdoses happen between 25-54
-- Men are most likely to overdose
+- Most overdoses happen between the ages of 25-54 years old
+- Men are more likely to overdose compared to women.
 
 # **Bumps in the Road**
 
