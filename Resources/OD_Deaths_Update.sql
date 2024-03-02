@@ -31,13 +31,14 @@ CREATE TABLE "OK_Death_Rate_" (
     "Gender" VARCHAR(255)   NOT NULL,
     "Gender_Code" VARCHAR(255)   NOT NULL,
     "MCD_Drug_Alcohol_Induced_Cause" VARCHAR(255)   NOT NULL,
-    "MCD_Drug_Alcohol_Induced_Cause_Code" INT   NOT NULL,
+    "MCD_Drug_Alcohol_Induced_Cause_Code" VARCHAR(255)   NOT NULL,
     "Deaths" INT   NOT NULL,
     "Population" INT   NOT NULL,
     "Crude_Rate" VARCHAR(255)   NOT NULL
 );
 
 CREATE TABLE "OK_Income" (
+    "County" VARCHAR(255)   NOT NULL
     "2010" INT   NOT NULL,
     "2011" INT   NOT NULL,
     "2012" INT   NOT NULL,
@@ -50,6 +51,5 @@ CREATE TABLE "OK_Income" (
     "2019" INT   NOT NULL,
     "2020" INT   NOT NULL,
     "2021" INT   NOT NULL,
-    "County" VARCHAR(255)   NOT NULL
 );
 
