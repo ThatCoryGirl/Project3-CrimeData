@@ -49,25 +49,29 @@ For this track, your group will tell a story using data visualizations. Here are
     - References for any code used that is not your own
 
 # **Questions Asked**
-What is the youngest/oldest death reported?
-What states/zipcodes have the highest death rate?
-What are the average household incomes in the zipcodes with the highest death rate?
-What race has the most deaths?
-Violent crimes reported associated with usage?
-Were there more men or women deaths reported?
-What is the age group with the highest reports deaths?
-In areas with high deaths, see if overdoses from other drugs dropped/increased/stayed the same.
-Age, race and gender by zipcode comparison.
 
+  - What counties have the highest death rates due to overdose?
+  - What are the average household incomes in the counties with the highest death rate?
+  - Were there more men or women deaths reported?
+  - What is the age group with the highest reports deaths?
+  - In areas with high deaths, see if overdoses from other drugs dropped/increased/stayed the same.
 
 # **Analysis and Conclusions**
+
+- Fentanyl deaths due to overdose skyrocketed in 2013-2014
+- Methamphetamine overdoses dropped/slowed significantly once Fentanyl became popular
+- Most overdoses happen between 25-54
+- Men are most likely to overdose
 
 # **Bumps in the Road**
 
 We've faced several challenges upon the completion of this project. Listed below are the ones we have documented:
+
   - Datasets with all of the information we wanted, were hard to find.
   - Deciding what years would be useful for this study.
   - We had conflicting Python libraries that were not working together or in our dev environments.
+  - The synthetic opioid category combines fentanyl, tramadol, and methodone. However, we found that its very difficult to overdose on methodone or tramadol so we were able to rule those out.
+  - No specific datasets associated with ethnicities, overdoses, and counties in Oklahoma.
 
 # **Disclaimers**
 
