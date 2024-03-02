@@ -48,6 +48,8 @@ For this track, your group will tell a story using data visualizations. Here are
 
     - References for any code used that is not your own
 
+# **Project Overview and Purpose**
+
 # **Questions Asked**
 
   - What counties have the highest death rates due to overdose?
