@@ -64,7 +64,12 @@ Age, race and gender by zipcode comparison.
 
 # **Bumps in the Road**
 
-# **Disclaimers
+We've faced several challenges upon the completion of this project. Listed below are the ones we have documented:
+  - Datasets with all of the information we wanted, were hard to find.
+  - Deciding what years would be useful for this study.
+  - We had conflicting Python libraries that were not working together or in our dev environments.
+
+# **Disclaimers**
 
 Wikimedia General Disclaimer
 Please note that the information found here may be in violation of the laws of the country or jurisdiction from where you are viewing this information. Wikimedia does not encourage the violation of any laws, but this information is stored on servers in the United States of America, and is maintained in reference to the protections afforded to content providers and readers in that jurisdiction. The laws in your country may not recognize a similarly broad protection of free speech; Wikimedia cannot be responsible for potential violations of such laws, should you link to this domain or reuse any of the information contained herein.
@@ -87,3 +92,16 @@ Teacher's Assistant: [Jacob Peroutek](https://www.linkedin.com/in/jperoutek/)
 Advisor: [Jordan Green](https://www.linkedin.com/in/jordan-green-138ba0a9/) - Quality Assurance and Accreditation Manager at the Tulsa Police Forensic Laboratory
 
 Contributors: [Cory Chapman Houston](https://www.linkedin.com/in/thatcorygirl/) [Amanda Hinkle](https://www.linkedin.com/in/amanda-hinkle-9105941b6/) [Katie Starnes](https://www.linkedin.com/in/katie-starnes-7aa037204/) [Kourtnee Turner](https://www.linkedin.com/in/kourtneet/) [Cass Johnnie Allen](https://www.linkedin.com/in/cass-allen-dedicated-quicklearner-peopleperson/)
+
+Python Libraries Not used in Class:
+
+  - [Seaborn](https://seaborn.pydata.org/tutorial/introduction.html)
+  - [Folium](https://realpython.com/python-folium-web-maps-from-data/)
+
+Datasets gathered from:
+
+[Wonder.CDC.GOV](https://wonder.cdc.gov/) -- The Public Health Service Act (42 U.S.C. 242m(d)) provides that the data collected by the National Center for Health Statistics (NCHS) may be used only for the purpose for which they were obtained; any effort to determine the identity of any reported cases, or to use the information for any purpose other than for health statistical reporting and analysis, is against the law. Therefore users will:
+
+  - Use these data for health statistical reporting and analysis only. Do not present or publish death counts of 9 or fewer or death rates based on counts of nine or fewer (in figures, graphs, maps, tables, etc.). Make no attempt to learn the identity of any person or establishment included in these data. Make no disclosure or other use of the identity of any person or establishment discovered inadvertently and advise the NCHS Confidentiality Officer of any such discovery.
+
+  - Confidentiality Officer, National Center for Health Statistics 3311 Toledo Road Hyattsville, MD 20782 Telephone 888-642-4159 Email: nchsconfidentiality@cdc.gov
