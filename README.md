@@ -74,6 +74,7 @@ We've faced several challenges upon the completion of this project. Listed below
   - We had conflicting Python libraries that were not working together or in our dev environments.
   - The synthetic opioid category combines fentanyl, tramadol, and methodone. However, we found that its very difficult to overdose on methodone or tramadol so we were able to rule those out.
   - No specific datasets associated with ethnicities, overdoses, and counties in Oklahoma.
+  - We didn't learn pdAdmin 4 database permissions and user creation in class so its been a challenge.
 
 # **Disclaimers**
 
