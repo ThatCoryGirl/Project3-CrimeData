@@ -54,6 +54,8 @@ Our group discussed many different topics to consider and decided there is a con
 
 After much discourse over topic ideas, we landed on comparing drug overdoses from 1999 to 2021, nationwide and in the state of Oklahoma. According to the DEA, "Fentanyl is a potent synthetic opioid drug approved by the Food and Drug Administration for use as an analgesic uh-nal-JEE-zik (pain relief) and anesthetic. It is approximately 100 times more potent than morphine and 50 times more potent than heroin as an analgesic uh-nal-JEE-zik." The names fentanyl goes by on the street are, "Apace, China Girl, Dance Fever, Friend, Goodfellas, Great Bear, He-Man, Jackpot, King Ivory, Murder 8, Poison, and Tango&Cash." This drug can be consumed via breathing, smoking, pill or tablet, spiked on blotter paper, patches, combined with other drugs like heroin, and has been identified in fake pills impersonating pharmaceutical drugs like oxycodone. According to the DEA an overdose from fentanyl can, "cause stupor, changes in pupil size, clammy skin, cyanosis, coma, and respiratory failure leading to death. The presence of a triad of symptoms such as coma, pinpoint pupils, and respiratory depression strongly suggests opioid intoxication."
 
+In other parts of the country such as Florida and Ohio, Fentanyl was substituted for Heroin where as in Oklahoma Fentanyl was substituted for Methamphetamine. Through our research we found that illicitly manufactured fentanyl (IMF) and pharmaceutical fentanyl (PF) cannot be distinguished between. Fentanyl (IMF) is primarily sold by transnational criminal organizations such as the cartel but is also being distributed on the darkweb.
+
 # **Questions Asked**
 
   - What counties have the highest death rates due to overdose?
@@ -64,11 +66,14 @@ After much discourse over topic ideas, we landed on comparing drug overdoses fro
 
 # **Analysis and Conclusions**
 
-- Fentanyl deaths due to overdose skyrocketed in 2013-2014.
 - Methamphetamine overdoses dropped/slowed significantly once Fentanyl became popular.
-- Most overdoses happen between the ages of 25-54 years old.
+- Most overdoses happen between the ages of 25-35 years old.
 - Men are more likely to overdose compared to women.
 - Drug overdoses only continue to rise as time persists.
+- We chose to start our datasets from 1999 because that was the beginning of prescription opioid overdose deaths
+- The rise in heroin overdoses occured in 2010.
+- The start of synthetic opioid overdoses such as Fentanyl started in 2013-2014.
+- Illicitly manufactured fentanyl (IMF) is the driving force for opioid overdoses in the U.S. entering through the Southern land border through Mexico.
 
 # **Bumps in the Road**
 
@@ -112,3 +117,7 @@ Privacy must be prioritized to protect victims and their families when conductin
 Other Sources:
 
 [DEA.GOV](https://www.dea.gov/factsheets/fentanyl)
+
+[CDC Florida and Ohio Fentanyl vs Heroin Case Study](https://www.cdc.gov/mmwr/volumes/65/wr/mm6533a3.htm)
+
+[National Library of Medicine](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8476199/)
