@@ -50,6 +50,12 @@ For this track, your group will tell a story using data visualizations. Here are
 
 # **Project Overview and Purpose**
 
+Our group discussed many different topics to consider and decided there is a considerable amount of data reported on crime in the U.S. We spoke with Jordan Green, Quality Assurance and Accreditation Manager at the Tulsa Police Forensic Laboratory, to see if she had any suggestions on points of interest. She mentioned ever since fentanyl took over the drug sceen, meth busts have basically tanked and overdoses have skyrocketed. She was curious when exactly this took place and if it correlated with the emergance of fentanyl in mainstream U.S. She also mentioned a mass shooting data analysis might have a fair amount of data present and suggested comparing instances from 2020 to 2024 as the pandemic has calmed down. However we were concerned there may not be enough datasets for this particular topic, however very interesting. Another topic up for consideration was the overall violent crime trends from the 90's up until now. She mentioned that violent crimes have gone down considerably even though people say things are dangerous now.
+
+After much discourse over topic ideas, we landed on comparing drug overdoses from 1999 to 2021, nationwide and in the state of Oklahoma. According to the DEA, "Fentanyl is a potent synthetic opioid drug approved by the Food and Drug Administration for use as an analgesic uh-nal-JEE-zik (pain relief) and anesthetic. It is approximately 100 times more potent than morphine and 50 times more potent than heroin as an analgesic uh-nal-JEE-zik." The names fentanyl goes by on the street are, "Apace, China Girl, Dance Fever, Friend, Goodfellas, Great Bear, He-Man, Jackpot, King Ivory, Murder 8, Poison, and Tango&Cash." This drug can be consumed via breathing, smoking, pill or tablet, spiked on blotter paper, patches, combined with other drugs like heroin, and has been identified in fake pills impersonating pharmaceutical drugs like oxycodone. According to the DEA an overdose from fentanyl can, "cause stupor, changes in pupil size, clammy skin, cyanosis, coma, and respiratory failure leading to death. The presence of a triad of symptoms such as coma, pinpoint pupils, and respiratory depression strongly suggests opioid intoxication."
+
+In other parts of the country such as Florida and Ohio, Fentanyl was substituted for Heroin where as in Oklahoma Fentanyl was substituted for Methamphetamine. Through our research we found that illicitly manufactured fentanyl (IMF) and pharmaceutical fentanyl (PF) cannot be distinguished between the two. Fentanyl (IMF) is primarily sold by transnational criminal organizations such as the cartel but is also being distributed on the darkweb.
+
 # **Questions Asked**
 
   - What counties have the highest death rates due to overdose?
@@ -60,35 +66,26 @@ For this track, your group will tell a story using data visualizations. Here are
 
 # **Analysis and Conclusions**
 
-- Fentanyl deaths due to overdose skyrocketed in 2013-2014
-- Methamphetamine overdoses dropped/slowed significantly once Fentanyl became popular
-- Most overdoses happen between the ages of 25-54 years old
+- Methamphetamine overdoses dropped/slowed significantly once Fentanyl became popular.
+- Most overdoses happen between the ages of 25-35 years old.
 - Men are more likely to overdose compared to women.
+- Drug overdoses only continue to rise as time persists.
+- We chose to start our datasets from 1999 because that was the beginning of prescription opioid overdose deaths
+- The rise in heroin overdoses occured in 2010.
+- The start of synthetic opioid overdoses such as Fentanyl started in 2013-2014.
+- Illicitly manufactured fentanyl (IMF) is the driving force for opioid overdoses in the U.S. entering through the Southern land border through Mexico.
 
 # **Bumps in the Road**
 
 We've faced several challenges upon the completion of this project. Listed below are the ones we have documented:
 
-  - Datasets with all of the information we wanted, were hard to find.
-  - Deciding what years would be useful for this study.
+  - Datasets with all of the information we wanted, were hard to find. Much of it had to be merged together
+  - Much of the data we found was already formatted such that we couldn't use it.
+  - Deciding what years would be useful for this study was a challenge.
   - We had conflicting Python libraries that were not working together or in our dev environments.
-  - The synthetic opioid category combines fentanyl, tramadol, and methodone. However, we found that its very difficult to overdose on methodone or tramadol so we were able to rule those out.
+  - The synthetic opioid category combines fentanyl, tramadol, and methodone. However, we found that its very difficult to overdose on tramadol so we were able to rule it out.
   - No specific datasets associated with ethnicities, overdoses, and counties in Oklahoma.
   - We didn't learn pdAdmin 4 database permissions and user creation in class so its been a challenge.
-
-# **Disclaimers**
-
-Wikimedia General Disclaimer
-Please note that the information found here may be in violation of the laws of the country or jurisdiction from where you are viewing this information. Wikimedia does not encourage the violation of any laws, but this information is stored on servers in the United States of America, and is maintained in reference to the protections afforded to content providers and readers in that jurisdiction. The laws in your country may not recognize a similarly broad protection of free speech; Wikimedia cannot be responsible for potential violations of such laws, should you link to this domain or reuse any of the information contained herein.
-No contract; limited license
-Please make sure that you understand that the information provided here is being provided freely, and that no kind of agreement or contract is created between you and the owners or users of this site, the owners of the servers upon which it is housed, the individual Wikipedia contributors, any project administrators, sysops, or anyone else who is in any way connected with this project or sister projects subject to your claims against them directly. You are being granted a limited license to copy anything from this site; it does not create or imply any contractual or extracontractual liability on the part of Wikipedia or any of its agents, members, organizers, or other users.
-
-There is no agreement or understanding between you and Wikipedia regarding your use or modification of this information beyond the Creative Commons Attribution-Sharealike 4.0 Unported License (CC-BY-SA) and the GNU Free Documentation License (GFDL); neither is anyone at Wikipedia responsible should someone change, edit, modify, or remove any information that you may post on Wikipedia or any of its associated projects.
-
-CDC
-Information Disclaimer
-The information provided using this website is only intended to be general summary information to the public. It is not intended to take the place of either the written law or regulations.
-
 
 # **Citations**
 
@@ -112,3 +109,15 @@ Datasets gathered from:
   - Use these data for health statistical reporting and analysis only. Do not present or publish death counts of 9 or fewer or death rates based on counts of nine or fewer (in figures, graphs, maps, tables, etc.). Make no attempt to learn the identity of any person or establishment included in these data. Make no disclosure or other use of the identity of any person or establishment discovered inadvertently and advise the NCHS Confidentiality Officer of any such discovery.
 
   - Confidentiality Officer, National Center for Health Statistics 3311 Toledo Road Hyattsville, MD 20782 Telephone 888-642-4159 Email: nchsconfidentiality@cdc.gov
+
+Other Ethical Considerations:
+
+Privacy must be prioritized to protect victims and their families when conducting research on death rates due to drug overdoses. The accumulation of data must comply with laws such as the Health Insurance Portability and Accountability Act (HIPAA) to protect sensitive information by anonymizing data. Empathy over sensationalism must be prioritized in our analysis to comply with the goal of helping communities and increasing public safety. Language should be chosen in a way that is tactful and avoids stigmatization of victims, allowing for sensitivity and consideration of different perspectives. The statuses "Unreliable" or "Suppressed" death rates in the data from the CDC website, were restricted due to confidentiality constraints, highlighting the importance of respecting individual privacy in agreement with CDC policies.
+
+Other Sources:
+
+[DEA.GOV](https://www.dea.gov/factsheets/fentanyl)
+
+[CDC Florida and Ohio Fentanyl vs Heroin Case Study](https://www.cdc.gov/mmwr/volumes/65/wr/mm6533a3.htm)
+
+[National Library of Medicine](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8476199/)
