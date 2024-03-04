@@ -102,6 +102,10 @@ Python Libraries Not used in Class:
   - [Seaborn](https://seaborn.pydata.org/tutorial/introduction.html)
   - [Folium](https://realpython.com/python-folium-web-maps-from-data/)
 
+Code References:
+
+Code snippets regarding suppressing Jupyter Notebook warnings were obtained through ChatGPT assistance and additional online searches on how to best eliminate deprecation warnings without altering the entirety of the code cell.
+
 Datasets gathered from:
 
 [Wonder.CDC.GOV](https://wonder.cdc.gov/) -- The Public Health Service Act (42 U.S.C. 242m(d)) provides that the data collected by the National Center for Health Statistics (NCHS) may be used only for the purpose for which they were obtained; any effort to determine the identity of any reported cases, or to use the information for any purpose other than for health statistical reporting and analysis, is against the law. Therefore users will:
