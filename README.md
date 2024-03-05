@@ -64,6 +64,20 @@ In other parts of the country such as Florida and Ohio, Fentanyl was substituted
   - What is the age group with the highest reports deaths?
   - In areas with high deaths, see if overdoses from other drugs dropped/increased/stayed the same.
 
+# Interactive Visualization Usage Instructions
+
+### Death by Year - Tree Map
+
+This tree map is an interactive visualization of drug deaths from 199-2021. This visualization is interactive, and supplies additional breakdown. In order to interact with this data, all that is necessary is to hover over the section of the graph. The section that is hovered over displays deaths by the specific gender that is being displayed, and this graph is visualized by year. The larger the section of the treemap, the larger the overall number of deaths.
+
+### Death by Year and by Substance
+
+This is an interactive bar graph with two drop down options. In order to utilize it, you will need to make two selections. The first selection is 'Year', and the second selection is 'Substance'. Once both selections have been made, a new graph will appear. This bar graph shows the number of deaths nationwide for that specific year and that specific substance category. This can be repeated to view any combination of available years and substance categories.
+
+### Oklahoma Drug Deaths by County and Substance
+
+This is an interactive bar graph with two drop down options. In order to utilize it, you will need to make two selections. The first selection is 'County', and the second selection is 'Drug'. Once both selections have been made, a new graph will appear. This bar graph shows the number of deaths in the state of Oklahoma for that specific county and that specific drug category. This can be repeated to view any combination of available years and substance categories. If no results are available, you will view a response "No results for {OK County Name} - {Drug Name}
+
 # **Analysis and Conclusions**
 
 - Methamphetamine overdoses dropped/slowed significantly once Fentanyl became popular.
