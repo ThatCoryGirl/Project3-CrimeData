@@ -80,9 +80,11 @@ This is an interactive bar graph with two drop down options. In order to utilize
 
 # **Analysis and Conclusions**
 
+- Oklahoma and Tulsa County have the highest death rates due to overdoses due to population density. There was no correlation between drug type and county.
+- We were not able to come to a conclusion on the average household incomes based on income due to data limitations regarding ethical concerns.
 - Methamphetamine overdoses dropped/slowed significantly once Fentanyl became popular.
-- Most overdoses happen between the ages of 25-35 years old.
-- Men are more likely to overdose compared to women.
+- Most overdoses happen between the ages of 25-55.
+- CIS Men are more likely to overdose compared to CIS women.
 - Drug overdoses only continue to rise as time persists.
 - We chose to start our datasets from 1999 because that was the beginning of prescription opioid overdose deaths
 - The rise in heroin overdoses occured in 2010.
