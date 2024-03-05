@@ -68,7 +68,7 @@ In other parts of the country such as Florida and Ohio, Fentanyl was substituted
 
 ### Death by Year - Tree Map
 
-This tree map is an interactive visualization of drug deaths from 199-2021. This visualization is interactive, and supplies additional breakdown. In order to interact with this data, all that is necessary is to hover over the section of the graph. The section that is hovered over displays deaths by the specific gender that is being displayed, and this graph is visualized by year. The larger the section of the treemap, the larger the overall number of deaths.
+This tree map is an interactive visualization of drug deaths from 1999-2021. This visualization is interactive, and supplies additional breakdown. In order to interact with this data, all that is necessary is to hover over the section of the graph. The section that is hovered over displays deaths by the specific gender that is being displayed, and this graph is visualized by year. The larger the section of the treemap, the larger the overall number of deaths.
 
 ### Death by Year and by Substance
 
