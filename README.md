@@ -75,6 +75,14 @@ In other parts of the country such as Florida and Ohio, Fentanyl was substituted
 - The start of synthetic opioid overdoses such as Fentanyl started in 2013-2014.
 - Illicitly manufactured fentanyl (IMF) is the driving force for opioid overdoses in the U.S. entering through the Southern land border through Mexico.
 
+# **How did it get this bad?**
+
+  Much of the responsibility for the opioid crisis rests with the pharmaceutical industry’s promotion of aggressive prescribing. A state court in Oklahoma last year found that the “exponentially increasing rates of addiction,” “overdose deaths,” and babies born exposed to opioids were caused by “false, misleading, and dangerous marketing campaigns”. The fact that opioid manufacturers were able to spread false claims on the risks of opioids for the past 25 years points to negligence of the US Food and Drug Administration (FDA).
+
+  The FDA did not properly enforce the Food, Drug, and Cosmetic Act when it approved Purdue Pharma’s new drug application for extended-release (ER) oxycodone in 1995. As Purdue earned billions of dollars from sales of oxycodone, other drug companies took note.
+
+  Overprescribing quickly became rampant. By 2013, enough opioids were prescribed to provide every adult in the country with a full pill bottle.
+
 # **Bumps in the Road**
 
 We've faced several challenges upon the completion of this project. Listed below are the ones we have documented:
@@ -127,3 +135,5 @@ Other Sources:
 [National Library of Medicine](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8476199/)
 
 [Ok County Boundaries retrieved from opendatasoft](https://public.opendatasoft.com/explore/dataset/us-county-boundaries/export/?flg=en-us&disjunctive.statefp&disjunctive.countyfp&disjunctive.name&disjunctive.namelsad&disjunctive.stusab&disjunctive.state_name&refine.stusab=OK&location=7,34.69194,-97.74536&basemap=jawg.light&dataChart=eyJxdWVyaWVzIjpbeyJjb25maWciOnsiZGF0YXNldCI6InVzLWNvdW50eS1ib3VuZGFyaWVzIiwib3B0aW9ucyI6eyJmbGciOiJlbi11cyIsImRpc2p1bmN0aXZlLnN0YXRlZnAiOnRydWUsImRpc2p1bmN0aXZlLmNvdW50eWZwIjp0cnVlLCJkaXNqdW5jdGl2ZS5uYW1lIjp0cnVlLCJkaXNqdW5jdGl2ZS5uYW1lbHNhZCI6dHJ1ZSwiZGlzanVuY3RpdmUuc3R1c2FiIjp0cnVlLCJkaXNqdW5jdGl2ZS5zdGF0ZV9uYW1lIjp0cnVlfX0sImNoYXJ0cyI6W3siYWxpZ25Nb250aCI6dHJ1ZSwidHlwZSI6ImNvbHVtbiIsImZ1bmMiOiJBVkciLCJ5QXhpcyI6ImFsYW5kIiwic2NpZW50aWZpY0Rpc3BsYXkiOnRydWUsImNvbG9yIjoiI0ZGNTE1QSJ9XSwieEF4aXMiOiJzdGF0ZWZwIiwibWF4cG9pbnRzIjo1MCwic29ydCI6IiJ9XSwidGltZXNjYWxlIjoiIiwiZGlzcGxheUxlZ2VuZCI6dHJ1ZSwiYWxpZ25Nb250aCI6dHJ1ZX0%3D)
+
+“How FDA Failures Contributed to the Opioid Crisis.” Journal of Ethics | American Medical Association, August 1, 2020 https://journalofethics.ama-assn.org/article/how-fda-failures-contributed-opioid-crisis/2020-08
