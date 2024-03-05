@@ -103,12 +103,12 @@ This is an interactive bar graph with two drop down options. In order to utilize
 
 We've faced several challenges upon the completion of this project. Listed below are the ones we have documented:
 
-  - Datasets with all of the information we wanted, were hard to find. Much of it had to be merged together
   - Much of the data we found was already formatted such that we couldn't use it.
   - Deciding what years would be useful for this study was a challenge.
   - We had conflicting Python libraries that were not working together or in our dev environments.
   - The synthetic opioid category combines fentanyl, tramadol, and methodone. However, we found that its very difficult to overdose on tramadol so we were able to rule it out.
-  - No specific datasets associated with ethnicities, overdoses, and counties in Oklahoma.
+  - In some of our data fentanyl was considered synthetic opioid or other opioid depending on the dataset.
+  - No specific datasets associated with ethnicities, overdoses, and counties in Oklahoma. (Ethical concerns)
   - We didn't learn pdAdmin 4 database permissions and user creation in class so its been a challenge.
 
 # **Citations**
