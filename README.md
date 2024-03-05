@@ -76,7 +76,7 @@ This is an interactive bar graph with two drop down options. In order to utilize
 
 ### Oklahoma Drug Deaths by County and Substance
 
-This is an interactive bar graph with two drop down options. In order to utilize it, you will need to make two selections. The first selection is 'County', and the second selection is 'Drug'. Once both selections have been made, a new graph will appear. This bar graph shows the number of deaths in the state of Oklahoma for that specific county and that specific drug category. This can be repeated to view any combination of available years and substance categories. If no results are available, you will view a response "No results for {OK County Name} - {Drug Name}
+This is an interactive bar graph with two drop down options. In order to utilize it, you will need to make two selections. The first selection is 'County', and the second selection is 'Drug'. Once both selections have been made, a new graph will appear. This bar graph shows the number of deaths in the state of Oklahoma for that specific county and that specific drug category. This can be repeated to view any combination of available years and substance categories. If no results are available, you will view a response "No results for {OK County Name} - {Drug Name}"
 
 # **Analysis and Conclusions**
 
